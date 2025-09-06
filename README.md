@@ -1,0 +1,2 @@
+# Briefly
+A News Summarizer
